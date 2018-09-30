@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="TestNG">
+    <test name="TestNG Features">
+        <groups>
+            <run>
+                <include name="One"/>
+                <include name="Two"/>
+            </run>
+
+        </groups>
+        <classes>
+            <class name="testNG.TestGroup"/>
+            <class name="testNG.TestGroupTwo"/>
+        </classes>
+    </test>
+</suite>

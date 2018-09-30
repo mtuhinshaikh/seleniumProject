@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="TestNG">
+    <test name="TestNG Features">
+        <classes>
+            <class name="testNG.Testannotation"/>
+            <class name="testNG.Attributes"/>
+            <class name="testNG.DependsOn"/>
+        </classes>
+    </test>
+</suite>

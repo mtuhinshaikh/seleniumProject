@@ -1,0 +1,1 @@
+{"uuid":"7bcde4c9-1f86-4977-8c49-3876108c7246","name":"testNG.Testannotation.aftermethod","description":"","start":1538335008350,"stop":1538335008350,"children":["29cd7f0a-48b7-40a0-a841-d0a0ecde00c8"],"afters":[{"name":"aftermethod","status":"passed","stage":"finished","description":"","start":1538335008350,"stop":1538335008350}]}

@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="TestNG">
+    <test name="TestNG Features">
+        <classes>
+            <class name="data_driven_testing.FbLogin"/>
+        </classes>
+    </test>
+</suite>
